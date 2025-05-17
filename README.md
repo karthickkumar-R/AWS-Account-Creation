@@ -31,8 +31,8 @@ Review and Create IAM User
 Include the commands used in the Experiment.
 
 ## OUTPUT
-### REG NUMBER:212223040087
-### NAME:KARTHICKKUMAR R
+### REG NUMBER: 212223040087
+### NAME: KARTHICKKUMAR R
  
  ![Screenshot 2025-05-17 103434](https://github.com/user-attachments/assets/c71e9a7a-afe9-4d95-ba21-4d3e380b4040)
 
